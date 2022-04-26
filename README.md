@@ -1,3 +1,1 @@
-- 🤧 Hi, I’m @coe1i
-- 👀 I’m interested in Frontend, Backend and databases
-- 🌱 I’m currently learning Web Developement
+
