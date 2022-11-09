@@ -22,20 +22,15 @@ Hablo castellano, inglés y japonés.
 <img src="https://profile-counter.glitch.me/coe1i/count.svg" />
 
 ### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] (https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] 
 <a href="https://www.instagram.com/coelllli/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/coe1i/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://coe1i.super.site/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
-<p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
-</p>
 
 
