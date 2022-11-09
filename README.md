@@ -23,5 +23,5 @@ Hablo castellano, inglés y japonés.
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] (https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/)
-
-[!Instagram (https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) Instagram] (https://www.instagram.com/coelllli/)
+<a href="https://www.instagram.com/coelllli/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+[!Instagram (https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) Instagram]
