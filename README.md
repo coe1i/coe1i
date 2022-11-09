@@ -18,13 +18,10 @@ Hablo castellano, inglés y japonés.
 
 <hr />
 
-### Visitor count
+### Visitor count 🧭
 <img src="https://profile-counter.glitch.me/coe1i/count.svg" />
 
-### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] 
-<a href="https://www.instagram.com/coelllli/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <i>Take a look at my repositories and let's get in touch!</i>
+### Let's get in touch 😎
 
 <p align="center">
 <a href= "https://github.com/coe1i/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
