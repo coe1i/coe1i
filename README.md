@@ -2,6 +2,7 @@
 ### 👋 Hi there 
 I am a web development student interested in AWS, Frontend and UX/UI who is currently finishing her course.
 I really like graphic design, videogames and learning new things.
+Hablo castellano, inglés y japonés.
 
 ## Programming languages and tools
 - 🖌️ Figma
