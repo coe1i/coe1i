@@ -3,7 +3,7 @@
 I am a web development student interested in AWS, Frontend and UX/UI who is currently finishing her course.
 I really like graphic design, videogames and learning new things.
 Hablo castellano, inglés y japonés.
- 💼 Vivo actualmente <a href="https://www.google.com/maps?q=madrid">Bordeaux</a>, en Madrid.<br/>
+ 💼 Vivo actualmente <a href="https://www.google.com/maps?q=madrid">Madrid</a>, en Madrid.<br/>
 
 ## Programming languages and tools
 - 🖌️ Figma
