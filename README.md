@@ -3,6 +3,7 @@
 I am a web development student interested in AWS, Frontend and UX/UI who is currently finishing her course.
 I really like graphic design, videogames and learning new things.
 Hablo castellano, inglés y japonés.
+ 💼 Vivo actualmente <a href="https://www.google.com/maps?q=madrid">Bordeaux</a>, en Madrid.<br/>
 
 ## Programming languages and tools
 - 🖌️ Figma
@@ -22,3 +23,5 @@ Hablo castellano, inglés y japonés.
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn] (https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/)
+
+[!Instagram (https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) Instagram] (https://www.instagram.com/coelllli/)
