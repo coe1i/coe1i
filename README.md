@@ -11,7 +11,7 @@ Hablo castellano, inglés y japonés.
 - 🐘 PHP
 - 🐤 JavaScript
 - 🐊 Java
-- 🦕 MySQL
+- 🦕 .NET
 
 ## Skills
 - 💬 日本語も話せます :jp:
