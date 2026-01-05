@@ -87,7 +87,7 @@ I enjoy working on projects that combine **software, hardware and cloud**, such 
 ## 📫 Let's Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/">
+  <a href="https://www.linkedin.com/in/elisa-fern%C3%A1ndez-%C3%A1lvarez-a38914255/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
   </a>
 </p>
