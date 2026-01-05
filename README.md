@@ -73,10 +73,15 @@ I enjoy working on projects that combine **software, hardware and cloud**, such 
 
 ---
 
-## 📊 Visitor Count
-<img src="https://profile-counter.glitch.me/coe1i/count.svg" />
+## 🧩 Engineering Values
+
+- Clean architecture over quick hacks
+- Security and privacy by design
+- Observable and testable systems
+- Continuous learning through hands-on projects
 
 ---
+
 
 ## 📫 Let's Get in Touch
 
