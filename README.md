@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Elisa
+### 👋 Hi thereee I'm Elisa
 
 I'm a **mid-level software developer (26 y/o)** with professional experience building **web platforms, backend services and applied computer vision systems** using **.NET and Angular**, with a strong focus on **architecture, security and real-world integrations**.
 
@@ -47,7 +47,7 @@ I enjoy working on projects that combine **software, hardware and cloud**, such 
 
 ---
 
-## 🚀 What I Like Building
+## 🚀 What I like building
 
 - Identity verification systems (OCR + facial recognition + NFC)
 - Secure authentication and access control platforms
@@ -73,26 +73,21 @@ I enjoy working on projects that combine **software, hardware and cloud**, such 
 
 ---
 
-## 🧩 Engineering Values
+## 📚 Currently Learning
 
-- Clean architecture over quick hacks
-- Security and privacy by design
-- Observable and testable systems
-- Continuous learning through hands-on projects
+- Docker for containerizing .NET and Angular applications
+- Kubernetes fundamentals (deployment, services, scaling)
+- Container-based CI/CD workflows
+- Cloud-native application design
 
 ---
+
 
 
 ## 📫 Let's Get in Touch
 
 <p align="center">
-  <a href="https://github.com/coe1i/">
-    <img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/>
-  </a>
   <a href="https://www.linkedin.com/in/elisa-fern%C3%A1ndez-a38914255/">
     <img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
-  </a>
-  <a href="https://coe1i.super.site/">
-    <img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/>
   </a>
 </p>
