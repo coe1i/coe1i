@@ -7,10 +7,10 @@ Hablo castellano, inglés y japonés.
 
 ## Programming languages and tools
 - 🖌️ Figma
-- ☁️ AWS
-- 🐘 PHP
+- ☁️ AWS / Azure
+- 🐘 PostgreSQL, SQLServer
 - 🐤 JavaScript
-- 🐊 Java
+- 🐊 Razor
 - 🦕 .NET
 
 ## Skills
